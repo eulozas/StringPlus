@@ -53,3 +53,4 @@ dkms.conf
 
 src/test.c
 src/test_stdarg.c
+src/main.c
