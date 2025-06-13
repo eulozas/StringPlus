@@ -56,4 +56,6 @@ src/test_stdarg.c
 src/main.c
 *.gcda
 *.gcno
-.src/coverage/
+src/coverage
+src/test_app
+*.info
