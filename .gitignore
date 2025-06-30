@@ -59,3 +59,4 @@ src/main.c
 src/coverage
 src/test_app
 *.info
+.vscode/
