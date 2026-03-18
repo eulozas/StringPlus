@@ -22,6 +22,7 @@
 
 ## Build
 
+```bash
 make
 
 ## Usage
